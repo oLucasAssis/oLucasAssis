@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Nascimento de Assis
 
- Estudante de **Análise e Desenvolvimento de Sistemas** no **IBMR — Campus Barra**  
+ Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **IBMR — Campus Barra**  
  Em busca de uma oportunidade de **estágio em Tecnologia da Informação**  
  Rio de Janeiro, RJ  
  Focado em desenvolvimento de sistemas, suporte, dados e soluções digitais  
