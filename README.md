@@ -29,9 +29,9 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 - Sistemas Computacionais
 - Segurança da Informação
 - Conectividade e Ambientes Computacionais
-- Pacote Office
+- Pacote office completo
 - Inglês Intermediário
-- Organização de processos
+- Otimização de demandas
 - Controle e organização de informações
 - Adaptação a sistemas internos
 
