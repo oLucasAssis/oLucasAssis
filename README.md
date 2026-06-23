@@ -38,19 +38,6 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 
 ---
 
-##  Atualmente Estudando
-
-- Desenvolvimento de sistemas
-- Java
-- Python
-- Lógica de Programação
-- Modelagem de Software
-- Sistemas Computacionais
-- Segurança da Informação
-- Conectividade e Ambientes Computacionais
-
----
-
 ##  Habilidades profissionais
 
 - Resolução de problemas
