@@ -49,7 +49,6 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 - Adaptação a novas tecnologias
 - Responsabilidade profissional
 - Gestão de demandas
-- Suporte ao usuário
 - Controle e análise de informações
 
 ---
@@ -58,7 +57,7 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 
 **Análise e Desenvolvimento de Sistemas**  
 IBMR — Campus Barra  
- Cursondo
+ Cursando
 
 ---
 
