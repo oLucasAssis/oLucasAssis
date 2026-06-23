@@ -57,7 +57,7 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 
 **Análise e Desenvolvimento de Sistemas**  
 IBMR — Campus Barra  
- Cursando
+CURSANDO 
 
 ---
 
