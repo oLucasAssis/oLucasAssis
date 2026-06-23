@@ -19,7 +19,7 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 
 ---
 
-##  Tecnologias e conhecimentos
+##  Tecmologias e conhecimentos
 
 - Java
 - C
@@ -38,7 +38,7 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 
 ---
 
-##  Atualmente estudando
+##  Atualmente Estudando
 
 - Desenvolvimento de sistemas
 - Java
