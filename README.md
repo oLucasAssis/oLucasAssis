@@ -31,7 +31,6 @@ Busco uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e c
 - Conectividade e Ambientes Computacionais
 - Pacote Office
 - Inglês Intermediário
-- Suporte ao usuário
 - Organização de processos
 - Controle e organização de informações
 - Adaptação a sistemas internos
